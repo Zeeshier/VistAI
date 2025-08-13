@@ -1,0 +1,7 @@
+The model is stored locally and is quite large (around 400 MB), so it won’t be uploaded. Instead, it can be downloaded directly using:
+
+```
+model, preprocess = clip.load("ViT-B/32", device=device)
+```
+
+- The embeddings are already saved in the models/embeddings folder.
