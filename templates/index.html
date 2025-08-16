@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VistAI · Smart Visual Recommendations</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+<body class="dark-gradient">
+    <nav class="navbar">
+        <div class="container">
+            <h2>VistAI</h2>
+            <div class="nav-actions">
+                <a href="/team" class="back-btn">Team</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="hero">
+            <h1 class="page-title fade-in">Discover your perfect product</h1>
+            <p class="subtitle fade-in">Upload an image and let our AI recommend the best matches instantly with advanced visual recognition technology.</p>
+
+            <div id="drop-zone" class="drop-zone fade-in">
+                <p>Drag & drop your image here<br>or <span class="browse">browse files</span></p>
+                <input type="file" id="file-input" accept="image/*" hidden>
+                <div class="preview" id="preview"></div>
+            </div>
+
+            <button class="upload-btn fade-in" id="upload-btn">Upload and see results</button>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Built by Team Recco · <a href="/team">Meet the team</a></p>
+        </div>
+    </footer>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
