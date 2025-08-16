@@ -173,4 +173,5 @@ if (document.getElementById('product-gallery')) {
         console.error('No results data found in sessionStorage');
         gallery.innerHTML = '<p>Error loading results. Please try again.</p>';
     }
+
 }
