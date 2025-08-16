@@ -1,1 +1,0 @@
-The original images were not uploaded to GitHub due to the data upload limit. However, the preprocessed images have been uploaded to the processed_images folder.
