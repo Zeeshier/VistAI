@@ -1,0 +1,6 @@
+image_path,product_id,category,color
+tests\data\images\test_image.jpg,test_image1,tshirt,pink
+tests\data\images\test_image1.jpg,test_image2,tshirt,maroon
+tests\data\images\test_image2.jpg,test_image3,tshirt,blue
+tests\data\images\test_image3.jpg,test_image4,tshirt,white
+tests\data\images\test_image4.jpg,test_image5,tshirt,black
