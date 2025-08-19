@@ -13,7 +13,7 @@
 
 </div>
 
-## 🎥 Demo
+## Demo
 
 <p align="center">
   <img src="screenshots/web-working.gif"" width="600" height="300" alt="Demo Preview">
