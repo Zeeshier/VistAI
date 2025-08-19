@@ -126,7 +126,6 @@ VistAI/
 ### RL Recommendation System
 1. **Environment Setup**: Custom Gym environment for product recommendations
 2. **Model Training**: Train DQN on product embeddings
-3. **Inference**: Generate recommendations based on user queries
 
 ## Challenges Faced
 
